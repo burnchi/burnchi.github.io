@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.burnchi.site/box/animation/index.html</loc>
+    <loc>https://www.blog.burnchi.site/box/gallery/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -47,7 +47,16 @@
   </url>
   
   <url>
-    <loc>https://www.blog.burnchi.site/box/gallery/index.html</loc>
+    <loc>https://www.blog.burnchi.site/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.burnchi.site/personal/bb/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -57,6 +66,15 @@
   
   <url>
     <loc>https://www.blog.burnchi.site/life/games/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.burnchi.site/personal/love/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -83,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.burnchi.site/personal/bb/index.html</loc>
+    <loc>https://www.blog.burnchi.site/site/census/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -110,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.burnchi.site/personal/love/index.html</loc>
+    <loc>https://www.blog.burnchi.site/site/time/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -120,24 +138,6 @@
   
   <url>
     <loc>https://www.blog.burnchi.site/social/link/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.burnchi.site/site/census/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.burnchi.site/site/time/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
