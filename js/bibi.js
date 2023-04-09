@@ -3,7 +3,8 @@ let total = 0
 let nowNum = 0
 let items = []
 let page = 1
-let Url = 'https://kkapi.fomal.cc/api/ispeak?author=6319fedef46fae97dcfa5ee2&page=' // 记住替换为你的API链接
+// let Url = 'https://kkapi.fomal.cc/api/ispeak?author=6319fedef46fae97dcfa5ee2&page=' // 记住替换为你的API链接
+let Url = 'https://memos.burnchi.site/api/memo?openId=96a2b7fc-aab9-41c3-b426-bd70293256d5' // 记住替换为你的API链接
 
 
 window.addEventListener('DOMContentLoaded', () => {
