@@ -6,7 +6,7 @@
   <link href="https://www.blog.burnchi.site/atom.xml" rel="self"/>
   
   <link href="https://www.blog.burnchi.site/"/>
-  <updated>2023-04-09T02:33:15.069Z</updated>
+  <updated>2023-04-09T02:39:47.267Z</updated>
   <id>https://www.blog.burnchi.site/</id>
   
   <author>
@@ -21,10 +21,20 @@
     <link href="https://www.blog.burnchi.site/posts/530fceb2.html"/>
     <id>https://www.blog.burnchi.site/posts/530fceb2.html</id>
     <published>2023-04-09T02:33:15.000Z</published>
-    <updated>2023-04-09T02:33:15.069Z</updated>
+    <updated>2023-04-09T02:39:47.267Z</updated>
+    
+    <content type="html"><![CDATA[<p>sql注入</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;sql注入&lt;/p&gt;
+</summary>
+      
     
     
     
+    <category term="Web安全" scheme="https://www.blog.burnchi.site/categories/Web%E5%AE%89%E5%85%A8/"/>
     
     
   </entry>
