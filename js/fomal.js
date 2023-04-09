@@ -2878,29 +2878,29 @@ if (window.localStorage.getItem("fpson") == undefined || window.localStorage.get
 /* 美化模块 start */
 
 // 更新版本需要每个用户都恢复一次默认设置
-if (localStorage.getItem("reset_4") == undefined) {
-  localStorage.setItem("reset_4", "1");
-  // 清空之前的标记值
-  for (var i = 1; i <= 3; i++) {
-    localStorage.removeItem("reset_" + i);
-  }
-  clearItem();
-  setTimeout(function () {
-    new Vue({
-      data: function () {
-        this.$notify({
-          title: "提示🍒",
-          message: " (｡･∀･)ﾉﾞ由于网站部分设置项更新，当前已为您重置所有设置，祝您愉快！",
-          position: 'top-left',
-          offset: 50,
-          showClose: true,
-          type: "success",
-          duration: 8000
-        });
-      }
-    })
-  }, 1500);
-}
+// if (localStorage.getItem("reset_4") == undefined) {
+//   localStorage.setItem("reset_4", "1");
+//   // 清空之前的标记值
+//   for (var i = 1; i <= 3; i++) {
+//     localStorage.removeItem("reset_" + i);
+//   }
+//   clearItem();
+//   setTimeout(function () {
+//     new Vue({
+//       data: function () {
+//         this.$notify({
+//           title: "提示🍒",
+//           message: " (｡･∀･)ﾉﾞ由于网站部分设置项更新，当前已为您重置所有设置，祝您愉快！",
+//           position: 'top-left',
+//           offset: 50,
+//           showClose: true,
+//           type: "success",
+//           duration: 8000
+//         });
+//       }
+//     })
+//   }, 1500);
+// }
 
 // 清除localStorage配置项
 function clearItem() {
