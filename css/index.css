@@ -7737,11 +7737,12 @@ button#go-up:hover #percent {
   }
 } */
 
-#aside-content > .card-widget.card-info {
+[data-theme="light"] #aside-content > .card-widget.card-info {
   background: white;
-
 }
-
+[data-theme="dark"] #aside-content > .card-widget.card-info {
+  background: black;
+}
 
 /* 个人信息卡片背景图 */
 /* [data-theme="light"] #aside-content > .card-widget.card-info {
