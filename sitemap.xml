@@ -20,43 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.burnchi.site/tags/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.blog.burnchi.site/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.burnchi.site/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.burnchi.site/life/games/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.burnchi.site/personal/about/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -74,6 +38,24 @@
   </url>
   
   <url>
+    <loc>https://www.blog.burnchi.site/life/games/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.burnchi.site/tags/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.blog.burnchi.site/life/movies/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -83,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.burnchi.site/social/link/index.html</loc>
+    <loc>https://www.blog.burnchi.site/box/nav/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -92,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.burnchi.site/personal/bb/index.html</loc>
+    <loc>https://www.blog.burnchi.site/life/music/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -101,25 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.burnchi.site/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.burnchi.site/site/census/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.burnchi.site/site/time/index.html</loc>
+    <loc>https://www.blog.burnchi.site/personal/about/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -137,7 +101,43 @@
   </url>
   
   <url>
-    <loc>https://www.blog.burnchi.site/life/music/index.html</loc>
+    <loc>https://www.blog.burnchi.site/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.burnchi.site/social/link/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.burnchi.site/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.burnchi.site/site/time/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.burnchi.site/site/census/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
